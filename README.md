@@ -7,7 +7,7 @@ In this people can move over canvas and can chat with those whom they want to.
 First, start by cloning the repository:
 
 ```
-https://github.com/ManavdhiMan003/Virtual-gathering.git
+https://github.com/Diksha7860/Virtual--Gathering
 ```
 
 We recommend to use `virtualenv` for development:
@@ -19,7 +19,7 @@ pip install virtualenv
 
 - Once installed access the project folder
 ```
-cd Virtual-gathering
+cd Virtual--gathering
 ```
 
 - Create a virtual environment

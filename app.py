@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request,session,redirect
+from Flask import Flask,render_template,request,session,redirect
 from flask_socketio import SocketIO,send,emit,join_room,leave_room
 from nodeclass import *
 import time
